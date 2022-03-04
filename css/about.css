@@ -1,0 +1,33 @@
+body {
+  font-family: 'montserrat', sans-serif;
+  font-weight: 900;
+  background-color: #F4EEFF;
+}
+
+#title .container-fluid {
+  padding: 0 0;
+}
+
+nav {
+  font-family: 'play', sans-serif;
+  font-weight: 700;
+  background-color: #1B262C;
+}
+#about h1{
+  font-family: 'montserrat',sans-serif;
+  font-weight: 900;
+  text-align: center;
+  font-size: 4rem;
+  padding: 5% 0 4% 0;
+}
+#about h5{
+  font-weight: 200;
+  text-align: justify;
+}
+span{
+  font-weight: 600;
+}
+
+.drop1{
+  padding-left: 70px;
+}

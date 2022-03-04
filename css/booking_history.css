@@ -1,0 +1,71 @@
+body {
+  font-family: 'montserrat', sans-serif;
+  font-weight: 400;
+  background-color: #F4EEFF;
+}
+
+#title .container-fluid {
+  padding: 0 0;
+}
+
+nav {
+  font-family: 'play', sans-serif;
+  font-weight: 700;
+  background-color: #1B262C;
+}
+
+.btn {
+  font-family: 'montserrat', sans-serif;
+  color: #000000;
+  font-weight: 600;
+}
+
+.card {
+  background-color: #F4EEFF;
+}
+
+img {
+  height: 250px;
+}
+
+.cpu {
+  padding: 11%;
+}
+
+h1 {
+  padding-bottom: 1%;
+  font-weight: 700;
+}
+
+h5 {
+  font-weight: 600;
+}
+.card-text{
+  text-align: justify;
+  font-size: 0.9rem;
+}
+.drop1{
+  padding-left: 70px;
+}
+
+#favorite_count{
+  text-align:center;
+  padding: 0 0.9rem 0.1rem 0.9rem;
+  border-radius: 3rem;
+}
+
+.fav1{
+  content-justify: right;
+}
+
+.favorite-rooms{
+  padding: 3%0;
+}
+
+.favorite-rooms + .favorite-rooms{
+  padding: 2%0;
+}
+
+.price-details h6{
+  padding:3% 2%;
+}

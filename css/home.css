@@ -1,0 +1,97 @@
+body {
+  font-family: 'play', sans-serif;
+}
+
+#title {
+  background-color: #1B262C;
+  padding: 5% 0;
+}
+
+.nav-item {
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+
+.navbar-brand {
+  color:grey;
+  font-family: 'play', sans-serif;
+  font-size: 3rem;
+}
+
+#features {
+  font-family: 'montserrat', sans-serif;
+  background-color: #F4EEFF;
+  text-align: center;
+  padding: 5% 1%;
+}
+
+#features h3 {
+  padding-top: 2%;
+  font-weight: 900;
+}
+
+#pricing {
+  font-family: 'montserrat', sans-serif;
+  background-color: #F4EEFF;
+  padding: 3% 0;
+}
+
+.card {
+  background-color: #F4EEFF;
+}
+
+#pricing h5 {
+  font-family: 'roboto', sans-serif;
+  font-weight: 700;
+}
+
+#pricing button {
+  color: #000000;
+  font-weight: 600;
+}
+
+#footer {
+  background-color: #1B262C;
+  text-align: center;
+  padding: 3% 0;
+}
+
+#footer i {
+  padding: 0 3%;
+}
+
+#footer h5 {
+  color:white;
+  padding: 3% 0 0 0;
+}
+
+#carousel img {
+  height: 300px;
+  border-radius: 30%;
+  margin: 19px;
+}
+
+#carousel h2{
+  text-decoration: underline;
+  color:grey;
+}
+
+#carousel {
+  font-family: 'play', sans-serif;
+  background-color: #1B262C;
+  text-align: center;
+  padding: 3% 0;
+}
+
+.img {
+  height: 230px;
+}
+
+.card-text {
+  text-align: justify;
+  font-size: 0.9rem;
+}
+
+.log1{
+  padding-left: 70px;
+}

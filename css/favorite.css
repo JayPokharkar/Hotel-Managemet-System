@@ -1,0 +1,94 @@
+body {
+  font-family: 'montserrat', sans-serif;
+  font-weight: 400;
+  background-color: #F4EEFF;
+}
+
+#title .container-fluid {
+  padding: 0 0;
+}
+
+nav {
+  font-family: 'play', sans-serif;
+  font-weight: 700;
+  background-color: #1B262C;
+}
+
+.btn {
+  font-family: 'montserrat', sans-serif;
+  color: #000000;
+  font-weight: 600;
+}
+
+.card {
+  background-color: #F4EEFF;
+}
+
+img {
+  height: 250px;
+}
+
+.cpu {
+  padding: 11%;
+}
+
+h1 {
+  padding-bottom: 1%;
+  font-weight: 700;
+}
+
+h5 {
+  font-weight: 600;
+}
+.card-text{
+  text-align: justify;
+  font-size: 0.9rem;
+}
+.drop1{
+  padding-left: 70px;
+}
+
+#favorite_count{
+  text-align:center;
+  padding: 0 0.9rem 0.1rem 0.9rem;
+  border-radius: 3rem;
+}
+
+.fav1{
+  content-justify: right;
+}
+
+.favorite-rooms{
+  padding: 3%0;
+}
+
+.favorite-rooms + .favorite-rooms{
+  padding: 2%0;
+}
+
+.price-details h6{
+  padding:3% 2%;
+}
+
+.gradient-custom-2 {
+  /* fallback for old browsers */
+  background: #fccb90;
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+}
+
+@media (min-width: 768px) {
+  .gradient-form {
+    height: 100vh !important;
+  }
+}
+@media (min-width: 769px) {
+  .gradient-custom-2 {
+    border-top-right-radius: .3rem;
+    border-bottom-right-radius: .3rem;
+  }
+}

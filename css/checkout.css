@@ -1,0 +1,97 @@
+body {
+  font-family: 'play', sans-serif;
+}
+
+#title {
+  background-color: #1B262C;
+  padding: 0 0;
+}
+
+.nav-item {
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+
+.navbar-brand {
+  color:grey;
+  font-family: 'play', sans-serif;
+  font-size: 3rem;
+}
+
+.cart{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.badge{
+    background-color: #808080;
+    border-radius: 10px;
+    color: black;
+    display: inline-block;
+    font-size: 15px;
+    line-height: 1;
+    padding: 3px 7px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+#checkout{
+  background-color: #F4EEFF;
+}
+
+.checkout{
+  background-color: #F4EEFF;
+}
+
+.bg-grey {
+background-color: #fff1e1;
+}
+
+.bg-grey {
+border-top-right-radius: 16px;
+border-bottom-right-radius: 16px;
+border-top-left-radius: 16px;
+border-bottom-left-radius: 16px;
+}
+
+.details{
+  background-color: #121212;
+  margin-top: 20px;
+  margin-bottom: 35px;
+}
+
+.input-custom{
+  background-color: #E5E4E2;
+}
+
+.gradient-custom {
+  background: -webkit-linear-gradient(left, #B9D1EB, #d72631);
+  border-top-right-radius: 16px;
+  border-bottom-right-radius: 16px;
+  border-top-left-radius: 16px;
+  border-bottom-left-radius: 16px;
+}
+
+.card-custom {
+  border-bottom-left-radius: 10% 50%;
+  border-top-left-radius: 10% 50%;
+}
+
+.cartbtn{
+  padding-top: 20px;
+}
+
+.personal{
+  padding-top: 160px;
+}
+
+#favorite_count{
+  text-align:center;
+  padding: 0 0.9rem 0.1rem 0.9rem;
+  border-radius: 3rem;
+}
+
+.fav1{
+  content-justify: right;
+}
